@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Clepfeed
-- 👀 I’m interested in python, c++, java
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in python, c++, js
+- 🌱 I’m currently learning c++, js
 - 💞️ I’m not looking to collaborate
 - 📫 How to reach me clepfeed@yandex.by
 
